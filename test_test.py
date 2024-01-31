@@ -11,3 +11,5 @@ for i in range(1, n * m + 1):
 for line in matrix:
     print(*(f'{i:<3}' for i in line), sep='')
 print(matrix)
+
+# ну что продолжаем наше обучение
